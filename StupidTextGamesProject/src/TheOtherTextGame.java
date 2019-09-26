@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Noah Fackler
+
 public class TheOtherTextGame implements StupidTextGame {
 
 	public String getName() {
