@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class ChickenTossGame implements StupidTextGame {
 	
 	public String getName() {
