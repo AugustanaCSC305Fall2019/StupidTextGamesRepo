@@ -14,6 +14,7 @@ public class StupidTextGameLauncher {
 		games.add(new CowTipper());
 		games.add(new CoinFlip());
 		
+		
 		System.out.println("Choose a stupid text game:");
 		for (int i = 0; i < games.size(); i++) {
 			System.out.println((i+1) + ": " + games.get(i).getName());
