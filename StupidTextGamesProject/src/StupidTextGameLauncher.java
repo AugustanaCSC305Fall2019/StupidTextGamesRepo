@@ -11,6 +11,7 @@ public class StupidTextGameLauncher {
 		games.add(new UnluckyDiceGame());
 		games.add(new ChickenTossGame());
 		games.add(new NumberGuesser());
+		games.add(new EvenOrOdd());
 		games.add(new GuessPrimeGame());
 		games.add(new EverbodyWins());
 		games.add(new AugiePurityTestNiceVersion());
