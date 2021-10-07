@@ -11,14 +11,14 @@ public class StupidTextGameLauncher {
 		games.add(new UnluckyDiceGame());
 		games.add(new ChickenTossGame());
 		games.add(new NumberGuesser());
-		games.add(new GuessPrimeGame());
+		//games.add(new GuessPrimeGame());
 		games.add(new EverbodyWins());
 		games.add(new AugiePurityTestNiceVersion());
 		games.add(new HigherOrLower());
 		games.add(new treeGame());
 		games.add(new DungeonEscape());
-		games.add(new MayosGame());
-		games.add(new WelcomeToHassanGame());
+		//games.add(new MayosGame());
+		//games.add(new WelcomeToHassanGame());
 		games.add(new alvaroGame());
 		games.add(new BaseballGame());
 		games.add(new StupidZombieGame());
@@ -32,6 +32,11 @@ public class StupidTextGameLauncher {
 		games.add(new DungeonEscape());
 		games.add(new GetGoodDayQuotesGame());
 		games.add(new MotivationalQuotes());
+		games.add(new LearnSwedish());
+		
+		
+		
+		
 		
 
 		System.out.println("Choose a stupid text game:");
@@ -47,5 +52,3 @@ public class StupidTextGameLauncher {
 	}
 
 }
-
-
